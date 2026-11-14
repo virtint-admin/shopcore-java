@@ -1,0 +1,18 @@
+region,category,rate_percent,prices_include_tax
+IN,*,18,true
+IN,Books,0,true
+IN,Grocery,5,true
+IN,Grocery > Staples,0,true
+IN,Apparel,12,true
+IN,Footwear,12,true
+IN,Toys,12,true
+IN-KL,*,19,true
+GB,*,20,true
+GB,Books,0,true
+GB,Grocery,0,true
+DE,*,19,true
+DE,Books,7,true
+DE,Grocery,7,true
+US-CA,*,7.25,false
+US-NY,*,4,false
+US-NY,Apparel,0,false

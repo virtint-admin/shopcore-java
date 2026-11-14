@@ -1,0 +1,5 @@
+# Every change needs a review from the ShopCore back-office team.
+*                        @shopcore/backoffice
+/src/main/java/com/shopcore/ledger/   @shopcore/finance
+/src/main/java/com/shopcore/tax/      @shopcore/finance
+/pom.xml /Makefile /Dockerfile        @shopcore/platform

@@ -1,0 +1,17 @@
+sku,name,category,price_inr,weight_g,length_mm,width_mm,height_mm,active,tags
+APP-102346-BLK-M,Classic Cotton T-Shirt Black M,Apparel > Men > T-Shirts,499.00,180,300,250,20,true,cotton|summer
+APP-102346-BLK-L,Classic Cotton T-Shirt Black L,Apparel > Men > T-Shirts,499.00,190,300,250,20,true,cotton|summer
+APP-102346-WHT-M,Classic Cotton T-Shirt White M,Apparel > Men > T-Shirts,499.00,180,300,250,20,true,cotton|summer
+APP-200011-NVY-32,Slim Fit Chinos Navy 32,Apparel > Men > Trousers,1499.00,450,350,300,40,true,cotton
+APP-300018-RED,Silk Saree Red,Apparel > Women > Sarees,4999.00,700,400,300,60,true,silk|festive
+FTW-400015-BRN-9,Leather Oxford Shoes Brown 9,Footwear > Men,2999.00,1100,330,220,120,true,leather
+ELE-555012,Wireless Earbuds,Electronics > Audio,2499.00,120,100,80,40,true,bluetooth|audio
+ELE-500012,Smartphone X1 128GB,Electronics > Phones,18999.00,400,200,120,60,true,5g
+ELE-500029,USB-C Fast Charger 30W,Electronics > Accessories,899.00,90,80,60,40,true,usb-c
+BOK-000000,The Pragmatic Shopkeeper,Books > Business,650.00,520,240,160,30,true,paperback
+BOK-100014,Cooking With Millets,Books > Food,399.00,380,220,150,20,true,paperback|food
+HOM-100021,Ceramic Coffee Mug 350ml,Home > Kitchen,349.00,400,120,90,100,true,ceramic
+HOM-100038,Cotton Bedsheet Queen,Home > Bedroom,1299.00,900,350,280,60,true,cotton
+GRO-100045,Organic Basmati Rice 5kg,Grocery > Staples,899.00,5000,400,250,120,true,organic
+GRO-100052,Assam Tea 500g,Grocery > Beverages,275.00,500,200,120,60,false,tea
+TOY-200028,Wooden Puzzle Set,Toys > Puzzles,799.00,600,300,300,50,true,wooden|kids

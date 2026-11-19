@@ -1,4 +1,4 @@
-# issue id -> the test its pull request must make pass (read by check-fix.sh)
+# issue id -> the test its pull request must make pass
 JAVA-0004 com.shopcore.cart.Issue0004Test#test_issue_0004
 JAVA-0007 com.shopcore.cart.Issue0007Test#test_issue_0007
 JAVA-0010 com.shopcore.cart.Issue0010Test#test_issue_0010
